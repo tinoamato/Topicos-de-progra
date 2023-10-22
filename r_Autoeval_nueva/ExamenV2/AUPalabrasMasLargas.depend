@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1689883057 source:d:\git\programacion\exams\aupalabrasmaslargas\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1689882858 d:\git\programacion\exams\aupalabrasmaslargas\examen\examen.h
+
+1689883096 source:d:\git\programacion\exams\aupalabrasmaslargas\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+
+1695389219 source:d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+
+1695389169 d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\examen.h
+
+1695389282 source:d:\git\programacion\exams\aucortofrasesmaslargassinarchivos\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1695389282 source:d:\temporal\examen\examen.c
+	<stdio.h>
+	"examen.h"
+
+1695669682 d:\temporal\examen\examen.h
+
+1695669684 source:d:\temporal\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"examen.h"
+	<string.h>
+
+1695766575 source:c:\users\laboratorios\desktop\examen\examen.c
+	"examen.h"
+
+1695766564 c:\users\laboratorios\desktop\examen\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1695766575 source:c:\users\laboratorios\desktop\examen\main.c
+	"examen.h"
+
+1695761994 source:c:\users\fran_\onedrive - universidad nacional de la matanza\2q2023\2.topicos de programacion\examen_7\examen\examen.c
+	"examen.h"
+
+1695761994 c:\users\fran_\onedrive - universidad nacional de la matanza\2q2023\2.topicos de programacion\examen_7\examen\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1695762167 source:c:\users\fran_\onedrive - universidad nacional de la matanza\2q2023\2.topicos de programacion\examen_7\examen\main.c
+	"examen.h"
+
+1697769650 source:c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\practicar\autoeval_nueva\examen\examen.c
+	"examen.h"
+
+1697769647 c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\practicar\autoeval_nueva\examen\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1697769635 source:c:\users\valen\onedrive - universidad nacional de la matanza\escritorio\practicar\autoeval_nueva\examen\main.c
+	"examen.h"
+
+1697777588 source:c:\programacion\practica_final\!!final\practicar\autoeval_nueva\examen\examen.c
+	"examen.h"
+
+1697775828 c:\programacion\practica_final\!!final\practicar\autoeval_nueva\examen\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1697773895 source:c:\programacion\practica_final\!!final\practicar\autoeval_nueva\examen\main.c
+	"examen.h"
+
+1697777588 source:c:\programacion\practica_final\!!final\practicar\r_autoeval_nueva\examen\examen.c
+	"examen.h"
+
+1697775828 c:\programacion\practica_final\!!final\practicar\r_autoeval_nueva\examen\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1697773895 source:c:\programacion\practica_final\!!final\practicar\r_autoeval_nueva\examen\main.c
+	"examen.h"
+
+1697939433 source:c:\users\segua\desktop\practicar\r_autoeval_nueva\examenv2\examen.c
+	"examen.h"
+
+1697939068 c:\users\segua\desktop\practicar\r_autoeval_nueva\examenv2\examen.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1697938941 source:c:\users\segua\desktop\practicar\r_autoeval_nueva\examenv2\main.c
+	"examen.h"
+
